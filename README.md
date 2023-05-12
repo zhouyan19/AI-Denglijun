@@ -3,7 +3,7 @@
 
 ## 模型
 
-`/model/G_329600.pth` 为微调好的生成器，`/model/D_329600.pth` 为微调好的判别器。
+`G_329600.pth` 为微调好的生成器，下载链接：https://cloud.tsinghua.edu.cn/f/e4c9156b481a4e34b6c1/?dl=1。
 
 ## 流程
 

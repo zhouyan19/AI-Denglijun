@@ -1,10 +1,6 @@
 # AI-Denglijun
 基于 Sovits 4.0 开发的 AI 邓丽君模型。
 
-## 模型
-
-`G_329600.pth` 为微调好的生成器，下载链接：https://cloud.tsinghua.edu.cn/f/e4c9156b481a4e34b6c1/?dl=1。
-
 ## 流程
 
 1. 收集邓丽君歌曲 60+ 首，并过滤去重到 59 首。
